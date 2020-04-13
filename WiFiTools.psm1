@@ -53,7 +53,7 @@ Function Get-WiFiAdapter
   Gets the available WiFi Networks.
 
  .Description
-  Gets the available WiFi Networks. User Invoke-WiFiScan prior to calling this function to populate the available networks list.
+  Gets the available WiFi Networks. Use Invoke-WiFiScan prior to calling this function to populate the available networks list.
 
  .Example
    # Get the WiFi Networks.
